@@ -10,6 +10,8 @@ This app was made for an elementary school ESL (English Second Language) teacher
 
 2. Word scramble - Shows an image plus a scrambled word and prompts the student to spell the corresponding vocabulary word. 
 
+![alt text](https://github.com/AndonisD/Spello/blob/main/images/Image%20E1_%20Client%20testing%20the%20product%20(1).jpg?raw=true)
+
 ## Tech
 
 Flutter + Firebase
