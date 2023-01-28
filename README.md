@@ -6,11 +6,9 @@ A flutter app that helps teachers make spelling quizzes and minigames
 
 This app was made for an elementary school ESL (English Second Language) teacher. It was designed to replace spelling worksheets that the students hated. The app looks and functions more like a game, with the intention to increase student engagement. The app included 2 modes:
 
-1. Word search game
-  - Students have to drag-select the correct letters, spelling out whichever word the image cue is showing.
+1. Word search game - Students have to drag-select the correct letters, spelling out whichever word the image cue is showing.
 
-2. Word scramble
-  - Shows an image plus a scrambled word and prompts the student to spell the corresponding vocabulary word. 
+2. Word scramble - Shows an image plus a scrambled word and prompts the student to spell the corresponding vocabulary word. 
 
 ## Tech
 
