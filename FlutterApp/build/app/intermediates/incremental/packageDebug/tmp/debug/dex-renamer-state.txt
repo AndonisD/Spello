@@ -1,0 +1,4 @@
+#Wed Jan 29 11:18:15 CST 2020
+base.0=C\:\\Development\\Flutter\\spello_12\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
