@@ -1,6 +1,6 @@
 # Spello
 
-A flutter app that helps teachers make spelling quizzes and minigames
+An old project of mine indended to help my friend's mom who was a teacher at our school.
 
 ## Intended use
 
