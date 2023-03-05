@@ -1,6 +1,6 @@
 # Spello
 
-An old project of mine indended to help my friend's mom who was a teacher at our school.
+An old project of mine indended to help my friend's mom who was an English as a Second Language teacher at my elementary school.
 
 <img src="https://github.com/AndonisD/Spello/blob/main/images/Image%20E1_%20Client%20testing%20the%20product%20(1).jpg" width=50% height=50%>
 
